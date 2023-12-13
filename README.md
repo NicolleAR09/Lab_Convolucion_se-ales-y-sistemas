@@ -1,4 +1,4 @@
-### Convolution laboratory: Signals and Systems - Systems Modeling
+## Convolution laboratory: Signals and Systems - Systems Modeling
 
 Python program in which the convolution process is developed in both the discrete time domain and the continuous time domain. 
 
